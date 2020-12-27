@@ -1,0 +1,26 @@
+h1{ color : rgb(255, 0, 230)}
+/*{border:solid}*/
+body{
+    background-image: url("slime.jpg");
+    background-size: 1100px;
+}
+.sh1{
+    margin-right:5%;
+}
+.g1{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.g2{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+a:link{
+    color: rgb(255, 0, 0);
+}
+a:visited{
+    color: rgb(21, 0, 255);
+}
+

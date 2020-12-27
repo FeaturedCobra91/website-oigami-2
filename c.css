@@ -1,0 +1,12 @@
+h1{ color : rgb(19, 61, 0)}
+/*{border:solid}*/
+body{
+    background-image: url("creeper3.jpg");
+    background-size: 1200px;
+}
+a:link{
+    color: rgb(27, 72, 1);
+}
+a:visited{
+    color: rgb(35, 0, 68);
+}

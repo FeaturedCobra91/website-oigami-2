@@ -1,0 +1,12 @@
+h1{ color : rgb(162, 0, 255)}
+/*{border:solid}*/
+body{
+    background-image: url("skelton.png");
+    background-size: 1100px;
+}
+a:link{
+    color: rgb(255, 255, 255);
+}
+a:visited{
+    color: rgb(0, 0, 0);
+}
